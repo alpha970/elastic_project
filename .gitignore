@@ -1,6 +1,1 @@
 __pycache__/
-*.log
-.env
-
-node_modules/
-docker-compose.override.yml
