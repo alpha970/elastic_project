@@ -10,4 +10,4 @@
    git clone https://github.com/ton-utilisateur/mon-projet.git
    cd mon-projet
 
-![Alt text](media/Capture d’écran 2025-02-17 104114.png)
+![Alt text](../media/Capture d’écran 2025-02-17 104114.png)
